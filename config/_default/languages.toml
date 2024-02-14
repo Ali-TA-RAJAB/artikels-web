@@ -1,0 +1,17 @@
+[en]
+  languageCode = 'en-US'
+  languageDirection = 'ltr'
+  languageName = 'English'
+  weight = 1
+  [en.menu]
+  [[en.menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "post"
+    weight = 10
+
+  [[en.menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "about"
+    weight = 20
